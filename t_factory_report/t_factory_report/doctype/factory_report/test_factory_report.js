@@ -2,15 +2,15 @@
 // rename this file from _test_[name] to test_[name] to activate
 // and remove above this line
 
-QUnit.test("test: T Factory Report", function (assert) {
+QUnit.test("test: Factory Report", function (assert) {
 	let done = assert.async();
 
 	// number of asserts
 	assert.expect(1);
 
 	frappe.run_serially([
-		// insert a new T Factory Report
-		() => frappe.tests.make('T Factory Report', [
+		// insert a new Factory Report
+		() => frappe.tests.make('Factory Report', [
 			// values to be set
 			{key: 'value'}
 		]),
