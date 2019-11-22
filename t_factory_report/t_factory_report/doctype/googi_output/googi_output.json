@@ -1,0 +1,101 @@
+{
+ "creation": "2019-11-22 01:34:21.729563",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "1",
+  "2",
+  "3",
+  "4",
+  "5",
+  "6",
+  "7",
+  "total"
+ ],
+ "fields": [
+  {
+   "columns": 2,
+   "fieldname": "1",
+   "fieldtype": "Float",
+   "in_list_view": 1,
+   "label": "1",
+   "print_width": "70px",
+   "width": "70px"
+  },
+  {
+   "columns": 2,
+   "fieldname": "2",
+   "fieldtype": "Float",
+   "in_list_view": 1,
+   "label": "2",
+   "print_width": "70px",
+   "width": "70px"
+  },
+  {
+   "columns": 1,
+   "fieldname": "3",
+   "fieldtype": "Float",
+   "in_list_view": 1,
+   "label": "3",
+   "print_width": "130px",
+   "width": "130px"
+  },
+  {
+   "columns": 1,
+   "fieldname": "4",
+   "fieldtype": "Float",
+   "in_list_view": 1,
+   "label": "4",
+   "print_width": "130px",
+   "width": "130px"
+  },
+  {
+   "columns": 1,
+   "fieldname": "5",
+   "fieldtype": "Float",
+   "in_list_view": 1,
+   "label": "5",
+   "print_width": "100px",
+   "width": "100px"
+  },
+  {
+   "columns": 1,
+   "fieldname": "6",
+   "fieldtype": "Float",
+   "in_list_view": 1,
+   "label": "6",
+   "print_width": "130px",
+   "width": "130px"
+  },
+  {
+   "columns": 2,
+   "fieldname": "7",
+   "fieldtype": "Float",
+   "in_list_view": 1,
+   "label": "7",
+   "print_width": "100px",
+   "width": "100px"
+  },
+  {
+   "columns": 2,
+   "fieldname": "total",
+   "fieldtype": "Float",
+   "in_list_view": 1,
+   "label": "total",
+   "print_width": "130px",
+   "width": "130px"
+  }
+ ],
+ "istable": 1,
+ "modified": "2019-11-22 02:11:50.531325",
+ "modified_by": "Administrator",
+ "module": "T Factory Report",
+ "name": "Googi Output",
+ "owner": "Administrator",
+ "permissions": [],
+ "quick_entry": 1,
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "track_changes": 1
+}
