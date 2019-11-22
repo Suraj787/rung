@@ -1,0 +1,42 @@
+{
+ "creation": "2019-11-22 15:52:53.735573",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "time",
+  "dry",
+  "wet"
+ ],
+ "fields": [
+  {
+   "fieldname": "time",
+   "fieldtype": "Time",
+   "in_list_view": 1,
+   "label": "Time"
+  },
+  {
+   "fieldname": "dry",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Dry"
+  },
+  {
+   "fieldname": "wet",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Wet"
+  }
+ ],
+ "istable": 1,
+ "modified": "2019-11-22 15:52:53.735573",
+ "modified_by": "Administrator",
+ "module": "T Factory Report",
+ "name": "CTC Output",
+ "owner": "Administrator",
+ "permissions": [],
+ "quick_entry": 1,
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "track_changes": 1
+}

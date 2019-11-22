@@ -55,9 +55,7 @@
   "column_break_58",
   "diff_w_t",
   "ctc_room_temprature_section",
-  "dry_ctc",
-  "column_break_62",
-  "wet_ctc",
+  "ctc_output",
   "amended_from"
  ],
  "fields": [
@@ -324,20 +322,6 @@
    "label": "CTC Room Temprature"
   },
   {
-   "fieldname": "dry_ctc",
-   "fieldtype": "Data",
-   "label": "Dry CTC"
-  },
-  {
-   "fieldname": "column_break_62",
-   "fieldtype": "Column Break"
-  },
-  {
-   "fieldname": "wet_ctc",
-   "fieldtype": "Data",
-   "label": "Wet CTC"
-  },
-  {
    "fieldname": "amended_from",
    "fieldtype": "Link",
    "label": "Amended From",
@@ -345,10 +329,16 @@
    "options": "Factory Process Report",
    "print_hide": 1,
    "read_only": 1
+  },
+  {
+   "fieldname": "ctc_output",
+   "fieldtype": "Table",
+   "label": "CTC Output",
+   "options": "CTC Output"
   }
  ],
  "is_submittable": 1,
- "modified": "2019-11-22 01:35:50.521294",
+ "modified": "2019-11-22 15:53:54.426764",
  "modified_by": "Administrator",
  "module": "T Factory Report",
  "name": "Factory Process Report",
