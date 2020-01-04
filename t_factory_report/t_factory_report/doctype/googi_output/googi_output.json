@@ -15,80 +15,55 @@
  ],
  "fields": [
   {
-   "columns": 1,
    "fieldname": "1",
-   "fieldtype": "Float",
+   "fieldtype": "Data",
    "in_list_view": 1,
-   "label": "1",
-   "print_width": "120px",
-   "width": "120px"
+   "label": "1"
   },
   {
-   "columns": 1,
    "fieldname": "2",
-   "fieldtype": "Float",
+   "fieldtype": "Data",
    "in_list_view": 1,
-   "label": "2",
-   "print_width": "120px",
-   "width": "120px"
+   "label": "2"
   },
   {
-   "columns": 1,
    "fieldname": "3",
-   "fieldtype": "Float",
-   "in_list_view": 1,
-   "label": "3",
-   "print_width": "120px",
-   "width": "120px"
+   "fieldtype": "Data",
+   "label": "3"
   },
   {
-   "columns": 1,
    "fieldname": "4",
-   "fieldtype": "Float",
+   "fieldtype": "Data",
    "in_list_view": 1,
-   "label": "4",
-   "print_width": "130px",
-   "width": "130px"
+   "label": "4"
   },
   {
-   "columns": 1,
    "fieldname": "5",
-   "fieldtype": "Float",
+   "fieldtype": "Data",
    "in_list_view": 1,
-   "label": "5",
-   "print_width": "120px",
-   "width": "120px"
+   "label": "5"
   },
   {
-   "columns": 1,
    "fieldname": "6",
-   "fieldtype": "Float",
+   "fieldtype": "Data",
    "in_list_view": 1,
-   "label": "6",
-   "print_width": "120px",
-   "width": "120px"
+   "label": "6"
   },
   {
-   "columns": 1,
    "fieldname": "7",
-   "fieldtype": "Float",
+   "fieldtype": "Data",
    "in_list_view": 1,
-   "label": "7",
-   "print_width": "120px",
-   "width": "120px"
+   "label": "7"
   },
   {
-   "columns": 2,
    "fieldname": "total",
-   "fieldtype": "Float",
+   "fieldtype": "Data",
    "in_list_view": 1,
-   "label": "total",
-   "print_width": "130px",
-   "width": "130px"
+   "label": "Total"
   }
  ],
  "istable": 1,
- "modified": "2019-11-22 15:12:15.810729",
+ "modified": "2020-01-04 21:54:41.093149",
  "modified_by": "Administrator",
  "module": "T Factory Report",
  "name": "Googi Output",
